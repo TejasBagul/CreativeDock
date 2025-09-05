@@ -23,3 +23,11 @@ A simple 4-digit OTP (One-Time Password) verification screen built using **React
 - JavaScript (ES6+)
 - React Hooks (`useState`, `useRef`, `useEffect`)
 - No third-party UI libraries
+
+## ScreenShots
+- When user not filled OTP completely
+<img width="1080" height="2400" alt="otp incomplete" src="https://github.com/user-attachments/assets/dccbcc39-43a1-4d02-bb1e-be9db048260d" />
+
+- When user filled OTP completely
+  <img width="1080" height="2400" alt="otp complete" src="https://github.com/user-attachments/assets/5bc12c37-9007-4785-9de0-80b80513f0b4" />
+
